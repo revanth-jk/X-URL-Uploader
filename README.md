@@ -15,7 +15,7 @@ Telegram RoBot to Upload Links.
 
 **For Devs**:
 
-👉 [X-URL-Uploader-dev](https://github.com/X-Gorn/X-URL-Uploader/tree/dev)
+👉 [X-URL-Uploader-dev](https://github.com/X-Gorn/X-URL-Uploader/tree/master)
 
 ## Telegram Support:
 
